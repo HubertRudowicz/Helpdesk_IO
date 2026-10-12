@@ -1,0 +1,10 @@
+﻿<Window x:Class="HelpDeskAdmin.ESPWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ESP - Lista zgłoszeń"
+        Height="600"
+        Width="800">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel x:Name="espResultPanel" Margin="10"/>
+    </ScrollViewer>
+</Window>
