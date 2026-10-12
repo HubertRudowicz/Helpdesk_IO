@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ttQhU+7iU0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HRudowicz\\Desktop\\projekt\\desktop\\HelpDeskApp\\HelpDeskApp\\HelpDeskApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HRudowicz\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.7\\microsoft.win32.systemevents.9.0.7.nupkg.sha512",
+    "C:\\Users\\HRudowicz\\.nuget\\packages\\system.drawing.common\\9.0.7\\system.drawing.common.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

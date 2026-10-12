@@ -1,0 +1,22 @@
+{
+  "SavePath": "Z:\\informatycy\\",
+  "Notifications": {
+    "StatusWorking": "Dzia\u0142a",
+    "StatusNotWorking": "Nie dzia\u0142a",
+    "SubmitSuccess": "Zg\u0142oszenie wys\u0142ane",
+    "SubmitError": "B\u0142\u0105d podczas wysy\u0142ania zg\u0142oszenia",
+    "AddAttachment": "Dodaj za\u0142\u0105cznik",
+    "Remove": "Usu\u0144",
+    "TakeScreenshot": "Zr\u00F3b wycinek ekranu",
+    "Send": "Wy\u015Blij",
+    "RefreshStatus": "Od\u015Bwie\u017C",
+    "TitleLabel": "Tytu\u0142:",
+    "DescriptionLabel": "Opis problemu:",
+    "PriorityLabel": "Priorytet:",
+    "AttachmentsLabel": "Za\u0142\u0105czniki:",
+    "StatusAllPrograms": "Status wszystkich program\u00F3w",
+    "PriorityLow": "Niski",
+    "PriorityMedium": "\u015Aredni",
+    "PriorityHigh": "Wysoki"
+  }
+}
